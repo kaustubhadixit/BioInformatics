@@ -1,2 +1,3 @@
 # BioInformatics
-Bioinformatics project
+Bioinformatics EDA and Models
+
