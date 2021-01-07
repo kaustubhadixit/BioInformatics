@@ -1,5 +1,5 @@
-# BioInformatics
-Bioinformatics project
+# Computational Drug Discovery
+Components : Data retrival, Data PreProcessing, Exploratory Data Analysis, Statistical analysis and Machine Learning Model
 
 **Acetylcholinesterase** – CHEMBL220, Data Preprocessing – Exploratory Data Analysis (Chemical Space Analysis) using Lipinski Descriptors and Mann-Whitney U test – Model Regression Random Forest
 
